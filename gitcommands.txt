@@ -1,0 +1,9 @@
+git add *
+git commit -m "commit message"
+git push -u orgin master/main
+git status : to check statged status of files
+git log : to check logs
+git branch : to check no of branch and where are we on which branch
+git branch branchname : to create branch
+git checkout branchname : to switch branch
+git merge branchname : to merge branch
